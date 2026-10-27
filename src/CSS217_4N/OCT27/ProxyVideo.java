@@ -1,6 +1,4 @@
-package CSS217_4N.OCT27.Part1;
-
-import CSS217_4N.OCT27.RealVideo;
+package CSS217_4N.OCT27;
 
 class ProxyVideo implements Video {
     private String fileName;

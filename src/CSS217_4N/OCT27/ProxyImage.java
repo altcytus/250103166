@@ -1,6 +1,4 @@
-package CSS217_4N.OCT27.Part1;
-
-import CSS217_4N.OCT27.RealImage;
+package CSS217_4N.OCT27;
 
 class ProxyImage implements Image {
     private String fileName;

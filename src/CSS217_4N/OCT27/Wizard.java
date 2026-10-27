@@ -1,8 +1,8 @@
-package CSS217_4N.OCT27.Part2;
+package CSS217_4N.OCT27;
 
 
-class Knight extends Hero {
-    public Knight(Weapon weapon) {
+class Wizard extends Hero {
+    public Wizard(Weapon weapon) {
         super(weapon);
     }
 
@@ -11,4 +11,5 @@ class Knight extends Hero {
         weapon.use();
     }
 }
+
 

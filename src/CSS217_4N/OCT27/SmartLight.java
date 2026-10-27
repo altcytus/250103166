@@ -1,4 +1,4 @@
-package CSS217_4N.OCT27.Part2;
+package CSS217_4N.OCT27;
 
 
 class SmartLight implements Device {

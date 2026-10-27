@@ -1,4 +1,4 @@
-package CSS217_4N.OCT27.Part1;
+package CSS217_4N.OCT27;
 
 class RealVideo implements Video {
     private String fileName;

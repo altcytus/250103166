@@ -1,6 +1,4 @@
-package CSS217_4N.OCT27.Part2;
-
-import CSS217_4N.OCT27.Part1.*;
+package CSS217_4N.OCT27;
 
 public class MainTest {
     public static void main(String[] args) {
