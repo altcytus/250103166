@@ -1,0 +1,15 @@
+package CSS217_4N.OCT27.Part2;
+
+
+class PartyRemote extends BasicRemote {
+    public PartyRemote(Device device) {
+        super(device);
+    }
+
+    public void partyMode() {
+        System.out.println("[Party Remote] Pumping up the party!");
+        device.turnOn();
+        device.setVolume(100);
+    }
+}
+
